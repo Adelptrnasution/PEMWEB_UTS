@@ -1,0 +1,21 @@
+Nama : Adelia Putri Nasution
+Kelas : IF22B
+NIM : 22416255201179
+
+1.1 Apa yang dimaksud dengan framework pada pengembangan aplikasi? :
+    Framework adalah kerangka kerja / template yang membantu programer dalam membangun aplikasi dengan lebih cepat dan efisien.
+    Framework memiliki berbagai fitur dan fungsi siap pakai yang bisa digunakan oleh programer.
+
+2.1. Sebutkan Tema proyek yang sedang digarap : Sistem Administrasi Sekolah
+2.2. Sebutkan anggota dari proyek yang sedang di garap, 
+   berikut dengan jobdesk dari masing masing anggota:
+   1. Rivaldi Pangestu Putra / 22416255201127 : Programmer
+   2. Aidil Fitra Isyraq / 22416255201159 : Desain UI / UML
+   3. Adelia Putri Nasution / 22416255201179 : Dokumentasi dan Laporan
+
+2.3. Jelaskan Permasalahan yang di dapat setelah hasil wawancara dengan client,
+   beserta hipotesa solusi yang kalian usung! :
+   • Permasalah dari client adalah manualnya pembukuan stok dan laporan kunjungan dari perpustakaan sekolah,
+   • Solusi dari kami adalah membuat sistem perpustakaan dengan fitur pengecekan dan penambahan stok buku secara online
+     melalui website dan sistem kunjungan secara online
+   
